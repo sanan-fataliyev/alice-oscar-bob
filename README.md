@@ -3,7 +3,7 @@
 Imagine Alice and Bob. Alice would like to send a simple message to Bob – “I will meet you at
 the central square at 3PM.” We do not have any secure channel to send this information over
 and Alice knows that there is an intruder, namely Oscar who would like to intercept her message.
-İ wrote a small application that imitates message exchange between Alice and Bob
+I wrote a small application that imitates message exchange between Alice and Bob
 using:
 1) key exchange and
 2) symmetric encryption
@@ -147,3 +147,5 @@ Oscar:
 
 
 ### References
+https://gist.github.com/syedrakib/241b68f5aeaefd7ef8e2
+https://stackoverflow.com/a/21928790/4791963
