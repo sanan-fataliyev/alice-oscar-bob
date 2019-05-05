@@ -1,5 +1,16 @@
 ## Key Exchange and Symmetric encryption imitation project
 
+Imagine Alice and Bob. Alice would like to send a simple message to Bob – “I will meet you at
+the central square at 3PM.” We do not have any secure channel to send this information over
+and Alice knows that there is an intruder, namely Oscar who would like to intercept her message.
+İ wrote a small application that imitates message exchange between Alice and Bob
+using:
+1) key exchange and
+2) symmetric encryption
+
+The keyword that Alice decided to use is “victory”. I helped her to deliver this key to Bob
+so that he can use it to decrypt the messages coming from Alice.
+
 #### Used tools
 - python3 programming language
 - Crypto library for python
@@ -8,7 +19,8 @@
 - python3 installed
 
 #### Setting up project:
-- Go to *secure_messaging_proj* directory in terminal
+- `git clone https://github.com/sanan-fataliyev/alice-oscar-bob.git`
+- `cd alice-oscar-bob`
 - `python3 -m venv .venv`
 - `source .venv/bin/activate`
 - `pip install -r requirements.txt`
