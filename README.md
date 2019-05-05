@@ -147,5 +147,5 @@ Oscar:
 
 
 ### References
-https://gist.github.com/syedrakib/241b68f5aeaefd7ef8e2
+https://gist.github.com/syedrakib/241b68f5aeaefd7ef8e2  
 https://stackoverflow.com/a/21928790/4791963
